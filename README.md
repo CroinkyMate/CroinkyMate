@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CroinkyMate
-- 👀 I’m interested in learning how to make apps
-- 🌱 I’m currently learning Python and Java Script
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me CosmicNz111@gmail.com
 
 <!---
